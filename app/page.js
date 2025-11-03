@@ -142,39 +142,39 @@ recibirá el premio que su astucia premia.
           {/* Link 1: Oculto en "exploit" */}
           <div className="opacity-0 hover:opacity-100 transition-opacity duration-300">
             <a
-              href="https://gandalf.lakera.ai/"
+              href="https://www.vulnhub.com/entry/the-planets-earth,755/"
               target="_blank"
               rel="noopener noreferrer"
               onClick={() => handleLinkClick(1)}
               className="text-green-400 hover:text-green-300 hover:underline"
             >
-              &gt; [NIVEL 1: AI SECURITY] - Gandalf Prompt Injection Challenge
+              &gt; [NIVEL 1: VULNHUB] - The Planets: Earth Challenge
             </a>
           </div>
 
           {/* Link 2: Oculto en "vulnerability" */}
           <div className="opacity-0 hover:opacity-100 transition-opacity duration-300">
             <a
-              href="https://portswigger.net/web-security/sql-injection"
+              href="https://w3challs.com/challenges/crypto/shadow"
               target="_blank"
               rel="noopener noreferrer"
               onClick={() => handleLinkClick(2)}
               className="text-green-400 hover:text-green-300 hover:underline"
             >
-              &gt; [NIVEL 2: SQL INJECTION] - PortSwigger Web Security Academy
+              &gt; [NIVEL 2: CRYPTO SHADOW] - W3Challs Crypto Challenge
             </a>
           </div>
 
           {/* Link 3: Oculto en "cipher" */}
           <div className="opacity-0 hover:opacity-100 transition-opacity duration-300">
             <a
-              href="https://w3challs.com/"
+              href="https://forms.office.com/Pages/ResponsePage.aspx?id=KweU6T5S_kuG4kQsXhCyRJZbyIw2wFBKvA3R8vCIL9RUN1hOSjU4VFo3QjQ2S1BGSzA1TjRJNUNYNS4u"
               target="_blank"
               rel="noopener noreferrer"
               onClick={() => handleLinkClick(3)}
               className="text-green-400 hover:text-green-300 hover:underline"
             >
-              &gt; [NIVEL 3: MULTI-CHALLENGE] - W3Challs Hacking Platform
+              &gt; [NIVEL 3: SUBMISSION] - Envío de Evidencias
             </a>
           </div>
         </div>
@@ -236,7 +236,7 @@ recibirá el premio que su astucia premia.
         {discoveredLinks === 3 && (
           <div className="mt-8 p-6 border-2 border-green-400 bg-green-900 bg-opacity-30 animate-pulse">
             <p className="text-green-300 text-center text-lg font-bold">
-              🎉 ¡FELICIDADES! HAS DESCUBIERTO TODOS LOS ENLACES 🎉
+               ¡FELICIDADES! HAS DESCUBIERTO TODOS LOS ENLACES 🎉
             </p>
             <p className="text-center mt-2">
               Ahora completa los retos y envía tus screenshots para recibir tu premio.
