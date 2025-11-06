@@ -15,7 +15,11 @@ export default function Home() {
 
 > NOTICIA CLASIFICADA:
 
-Te esperamos en la charla del profesor Madrid **"Factores humanos en ciberseguridad: El método PALAbRaS para la elección de frases de contraseña"**, que se llevará a cabo el **martes 11 de noviembre a las 9:00 a.m.**, en el **Auditorio Banco del Occidente**.
+Te esperamos en la charla del profesor Madrid 
+"Factores humanos en ciberseguridad: El método
+PALAbRaS para la elección de frases de contraseña", 
+que se llevará a cabo el **martes 11 de noviembre a 
+las 9:00 a.m.**, en el **Auditorio Banco del Occidente**.
 
 ¡Asegura tu cumplimiento y no te pierdas la gran noticia!
 En este mismo evento **se revelarán a los ganadores de los retos**.
